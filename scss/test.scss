@@ -1,0 +1,83 @@
+//---Переменные---//
+$bg_intro: url('../img/start-page_image.jpg');
+
+
+//---Мои Стили---//
+h1 {
+    color: red;
+    margin: 0;
+}
+
+#section1 {
+    background: $bg_intro;
+}
+
+#section2 {
+    
+}
+
+
+//////////////////////////////////////////////////
+//h1{
+//    font-size: 5em;
+//    font-family: arial,helvetica;
+//    color: red;
+//    margin:0;
+//    padding:0;
+//}
+//
+//.section{
+//    text-align:center;
+//    background: green;
+//    background-size: cover;
+//}
+//////////////////////////////////////////////////
+//.slide{
+//    background-size: cover;
+//}
+//
+//
+//#section1{
+//    background-image: url(../img/start-page_image.jpg);
+//}
+//#section1 h1{
+//    top: 50%;
+//    transform: translateY(-50%);
+//    position: relative;
+//}
+//
+//#section2{
+//    
+//}
+//
+//#section3{
+//    background-image: url(imgs/bg3.jpg);
+//    padding: 6% 0 0 0;
+//}
+//
+//#section4{
+//    background-image: url(imgs/bg4.jpg);
+//    padding: 6% 0 0 0;
+//}
+//#section4 h1{
+//    color: #000;
+//}
+//
+//
+///*Adding background for the slides
+//* --------------------------------------- */
+//#slide1{
+//    background-image: url(imgs/bg2.jpg);
+//    padding: 6% 0 0 0;
+//}
+//#slide2{
+//    background-image: url(imgs/bg5.jpg);
+//    padding: 6% 0 0 0;
+//}
+//
+//
+///* Bottom menu
+//* --------------------------------------- */
+//#infoMenu li a {
+//    color: #fff;
+//}

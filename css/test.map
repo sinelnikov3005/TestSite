@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "test.css",
+	"sources": [
+		"../scss/test.scss"
+	],
+	"sourcesContent": [
+		"//---Переменные---//\r\n$bg_intro: url('../img/start-page_image.jpg');\r\n\r\n\r\n//---Мои Стили---//\r\nh1 {\r\n    color: red;\r\n    margin: 0;\r\n}\r\n\r\n#section1 {\r\n    background: $bg_intro;\r\n}\r\n\r\n#section2 {\r\n    \r\n}\r\n\r\n\r\n//////////////////////////////////////////////////\r\n//h1{\r\n//    font-size: 5em;\r\n//    font-family: arial,helvetica;\r\n//    color: red;\r\n//    margin:0;\r\n//    padding:0;\r\n//}\r\n//\r\n//.section{\r\n//    text-align:center;\r\n//    background: green;\r\n//    background-size: cover;\r\n//}\r\n//////////////////////////////////////////////////\r\n//.slide{\r\n//    background-size: cover;\r\n//}\r\n//\r\n//\r\n//#section1{\r\n//    background-image: url(../img/start-page_image.jpg);\r\n//}\r\n//#section1 h1{\r\n//    top: 50%;\r\n//    transform: translateY(-50%);\r\n//    position: relative;\r\n//}\r\n//\r\n//#section2{\r\n//    \r\n//}\r\n//\r\n//#section3{\r\n//    background-image: url(imgs/bg3.jpg);\r\n//    padding: 6% 0 0 0;\r\n//}\r\n//\r\n//#section4{\r\n//    background-image: url(imgs/bg4.jpg);\r\n//    padding: 6% 0 0 0;\r\n//}\r\n//#section4 h1{\r\n//    color: #000;\r\n//}\r\n//\r\n//\r\n///*Adding background for the slides\r\n//* --------------------------------------- */\r\n//#slide1{\r\n//    background-image: url(imgs/bg2.jpg);\r\n//    padding: 6% 0 0 0;\r\n//}\r\n//#slide2{\r\n//    background-image: url(imgs/bg5.jpg);\r\n//    padding: 6% 0 0 0;\r\n//}\r\n//\r\n//\r\n///* Bottom menu\r\n//* --------------------------------------- */\r\n//#infoMenu li a {\r\n//    color: #fff;\r\n//}"
+	],
+	"names": [],
+	"mappings": ";AAKA,AAAA,EAAE,CAAC;EACC,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,CAAC;CACZ;;;AAED,AAAA,SAAS,CAAC;EACN,UAAU,EAVH,kCAAkC;CAW5C"
+}
